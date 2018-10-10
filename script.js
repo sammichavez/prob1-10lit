@@ -42,6 +42,7 @@ function string_bits(word){
     }
     return answer;
 }
+//
 //caughtspeeding
 function caughtSpeeding(num,boolean){
     var x = 0;
